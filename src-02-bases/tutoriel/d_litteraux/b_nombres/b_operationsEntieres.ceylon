@@ -29,5 +29,5 @@ void operationsEntieres() {
   print(4 / 2 );  // Division entière
   print(5 / 2 );  //
   print(5 % 2 );  // Modulo (Reste de la division entière)
-  print(2 ^ 3 );  // Élevation à la puissance
+  print(2 ^ 3 );  // Élévation à la puissance
 }

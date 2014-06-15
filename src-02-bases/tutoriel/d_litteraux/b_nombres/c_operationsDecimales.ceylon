@@ -28,6 +28,6 @@ void operationsDecimales() {
   print(2.0 * 3);   // Multiplication
   print(4 / 2.0 );  // Division entière
   print(5.0 / 2 );  //
-  print(2 ^ 3.0 );  // Élevation à la puissance
+  print(2 ^ 3.0 );  // Élévation à la puissance
   print(2.0 ^ 3 );  //
 }
